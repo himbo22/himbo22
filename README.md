@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hoang Nguyen Quoc</h1>
 <h3 align="center">A passionate Android & Backend Developer from Viet Nam</h3>
 
-
+<img align="center" src="https://i.pinimg.com/originals/84/72/75/847275553f3271e0d722fd0807af9ebe.gif" width="500">
 
 - 👨‍💻 All of my projects are available at [https://github.com/himbo22](https://github.com/himbo22)
 
