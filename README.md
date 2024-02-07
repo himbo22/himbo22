@@ -9,11 +9,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/notgood2kf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/notgood2kf" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hoang-nguyen-quoc-637933215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hoang-nguyen-quoc-637933215/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucyswwygjaatje4p4xtcnlza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucyswwygjaatje4p4xtcnlza" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mhoanga1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mhoanga1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/hoangvacban22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/hoangvacban22/" height="30" width="40" /></a>
+<a href="https://dev.to/notgood2kf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="notgood2kf" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hoang-nguyen-quoc-637933215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoang-nguyen-quoc-637933215/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCYswWYGJAatJE4p4xtCnlZA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucyswwygjaatje4p4xtcnlza" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mhoanga1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mhoanga1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hoangvacban22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hoangvacban22/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
