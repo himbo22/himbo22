@@ -3,7 +3,7 @@
 
 <img align="center" src="https://i.pinimg.com/originals/84/72/75/847275553f3271e0d722fd0807af9ebe.gif" width="500">
 
-- 👨‍💻 All of my projects are available at [https://github.com/himbo22](https://github.com/himbo22)
+- 👨‍💻 All of my projects are available at [https://github.com/himbo22](https://github.com/himbo22?tab=repositories)
 
 - 📫 How to reach me **mhoanga1@gmail.com**
 
