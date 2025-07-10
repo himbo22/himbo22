@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hoang Nguyen Quoc</h1>
-<h3 align="center">My life is like Formula 1. Some seasons I win, some I lose, or maybe I haven't won any yet. But that doesn’t bring me down. I keep improving my driving skills, upgrading my car, and learning from every lap. Because for me, it’s not just about the podium — it’s about the race itself. Never stop.</h3>
+<h3 align="center">My life is like Formula 1. Some seasons I win, some I lose, or maybe I haven't won any yet. But that doesn’t bring me down. I keep improving my driving skills, upgrading my car, and learning from every lap. Because for me, it’s not just about the podium, it’s about the race itself. Never stop.</h3>
 
 <p align="center">
   <img align="center" src="https://media1.tenor.com/m/470K0i91p0kAAAAd/ln4-fastest-lap.gif" width="500">
