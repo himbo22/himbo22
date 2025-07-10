@@ -8,7 +8,7 @@ And just like in F1, behind every driver is a team of mechanics, those who tight
 Never stop.
 </h3>
 
-<p align="center">
+<p>
   <img align="center" src="https://media1.tenor.com/m/470K0i91p0kAAAAd/ln4-fastest-lap.gif" width="500">
 </p>
 
