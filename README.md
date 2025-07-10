@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hoang Nguyen Quoc</h1>
 <h3 align="center">My life is like Formula 1. Some seasons I win, some I lose, or maybe I haven’t won any yet. But that doesn’t bring me down. I keep improving my driving skills, upgrading my car, and learning from every lap. For me, it’s not just about reaching the podium, it’s about the race itself.
-
-
 And just like in F1, behind every driver is a team of mechanics, those who tighten the bolts, refuel the tank, and make sure the engine keeps running. In my life, those are the friends, mentors, and people who support me silently but powerfully. I may be the one holding the wheel, but I never race alone.
-
 Never stop.
 </h3>
 
