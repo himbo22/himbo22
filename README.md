@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hoang Nguyen Quoc</h1>
+<h1 align="center">Hi 👋, I'm Hoang Quoc Nguyen</h1>
 <h3>My life is like Formula 1. Some seasons I win, some I lose, or maybe I haven’t won any yet. But that doesn’t bring me down. I keep improving my driving skills, upgrading my car, and learning from every lap. For me, it’s not just about reaching the podium, it’s about the race itself.
 </h3>
 <h3>
